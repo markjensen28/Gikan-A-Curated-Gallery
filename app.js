@@ -462,7 +462,7 @@ function renderDiscoveryFeed() {
       <div class="feed-greeting" style="position: relative; overflow: hidden;">
   <!-- Background Image -->
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0;">
-    <img src="images/thumb/thumb.jpg" 
+    <img src="images/thumb/Thumb.jpg" 
          alt="Northern Samar" 
          style="width: 100%; height: 100%; object-fit: cover; opacity: 0.3;">
   </div>
