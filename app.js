@@ -463,7 +463,7 @@ function renderDiscoveryFeed() {
   <!-- Background Image -->
   <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 0;">
     <img src="images/thumb/Thumb.jpg" 
-         alt="Northern Samar" 
+         alt="" 
          style="width: 100%; height: 100%; object-fit: cover; opacity: 0.3;">
   </div>
   
